@@ -1,9 +1,6 @@
-# Googlecal-stundenauflister
-Dieses Google Apps-Script hilft Dir bei der Erstellung Deiner Arbeitszeitennachweise. 
+# GAS-Timesheet
+This Google Apps Script gives you a list of calendar events based on keywords and sums up the amount of hours. Pretty handy for turning in timesheets at your work if you use Google Calendar frequently. 
 
-## Wie es funktioniert
-Es liest aus einem von Dir vorgegebenen Kalender, Termine mit einem bestimmten Stichwort, in einem Zeitraum Von Bis aus und gibt eine Tabelle mit den gefundenen Terminen aus.
+## How to use
+Copy sample Sheet (coming soon) and attach Google Apps Script to it.
 
-##
-
-Terminlister für Deinen Google Calendar
