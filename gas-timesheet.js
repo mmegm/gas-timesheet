@@ -68,4 +68,4 @@ function onOpen() {
 // https://developers.google.com/apps-script/reference/calendar/calendar
 // https://developers.google.com/apps-script/reference/calendar/calendar-event
 
-// Georg Mastritsch, 19.01.17
+// @mmegm, 14.03.22
